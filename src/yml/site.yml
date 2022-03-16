@@ -1,7 +1,7 @@
 name: Lsd ka blog
-title: Lsd's Blog | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: Lsd's Blog | All about threat intel
+description: Info about threat intel by
+  Arav Tripathi
 tags:
   - blog
   - template
@@ -18,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: lsd@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
